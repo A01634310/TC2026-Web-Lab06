@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+form {
+  font-size: 1.25em;
+}
+
+button {
+  padding: 0.25em;
+  font-weight: bold;
+}
+
+input {
+  padding: 0.25em;
+}
+
+p,
+.buttons-container {
+  margin: 0.25em;
+}
+
+p {
+  font-size: 1.25em;
+  font-style: italic;
+  color: gray;
+}
+
+.card {
+  border: 1px solid gray;
+  padding: 1em;
+  margin: 1em;
+}
+
+.checked-item p {
+  text-decoration: line-through;
+}
